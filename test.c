@@ -9,5 +9,6 @@ int main() {
     printf("This is a test program using C17 standard.\n");
     printf("C17 is the latest standard for the C programming language.\n");
     printf("It includes various improvements and bug fixes over previous standards.\n");
+    printf("Thank you for using C17!\n");
     return 0;
 }
