@@ -6,5 +6,6 @@ void greet() {
 int main() {
     printf("Hello, World!\n");
     greet();
+    printf("This is a test program using C17 standard.\n");
     return 0;
 }
