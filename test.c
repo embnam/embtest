@@ -11,5 +11,6 @@ int main() {
     printf("It includes various improvements and bug fixes over previous standards.\n");
     printf("Thank you for using C17!\n");
     greet();
+    greet();
     return 0;
 }
